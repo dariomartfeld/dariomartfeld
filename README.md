@@ -87,6 +87,8 @@ Me chamo Dário Martfeld, tenho 21 anos e sou natural da Salvador/Bahia. Conclu�
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
