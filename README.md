@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo Dário Martfeld, tenho 21 anos e sou natural da Salvador/Bahia. Concluí o ensino técnico no Senai, em Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software na UCSAL. Gosto muito de tecnologia.
+Me chamo Dário Martfeld, tenho 21 anos e sou natural da Salvador/Bahia. Concluí o ensino técnico no Senai, em Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software na UCSAL.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/dario-martfeld/">
