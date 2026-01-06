@@ -65,6 +65,13 @@ Me chamo DÃ¡rio Martfeld, tenho 21 anos e sou natural da Salvador/Bahia. ConcluÃ
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/figma/original.svg"
+/>
 <img 
     align="left" 
     alt="TypeScript"
@@ -73,8 +80,6 @@ Me chamo DÃ¡rio Martfeld, tenho 21 anos e sou natural da Salvador/Bahia. ConcluÃ
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-
-
 <img 
     align="left" 
     alt="Git" 
