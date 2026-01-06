@@ -78,7 +78,7 @@ Me chamo DÃ¡rio Martfeld, tenho 21 anos e sou natural da Salvador/Bahia. ConcluÃ
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/java/original-wordmark.svg"
+   src="https://devicon-website.vercel.app/api/java/original.svg"
 />
 <img 
     align="left" 
