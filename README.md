@@ -1,9 +1,6 @@
 # 👨🏻‍💻 Dario Martfeld
 
 **`Desenvolvedor FrontEnd`**
-
-Me chamo Dário Martfeld, sou natural da Salvador/Bahia. Concluí o ensino técnico no Senai, em Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software na UCSAL.
-
 <p align="left">
     <a href="https://www.linkedin.com/in/dario-martfeld/">
         <img 
